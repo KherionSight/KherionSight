@@ -29,4 +29,4 @@
 [website]: https://kherion-technology.com/
 [grant]: http://vsCodeHero.com
 [twitter]: https://twitter.com/PatrickYL3
-[linkedin]: linkedin.com/in/j-patrick-mixon
+[linkedin]: https://www.linkedin.com/in/j-patrick-mixon
