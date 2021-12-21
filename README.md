@@ -1,6 +1,5 @@
 ### Hi there, I'm Patrick - aka [KherionSight][website] 👋 
 
-###[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)###
 [![Twitter Follow](https://img.shields.io/twitter/follow/PatrickYL3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPatrickYL3&screen_name=PatrickYL3)
 
 ## I'm a Virologist, Entrepreneur and constant student of life!!
