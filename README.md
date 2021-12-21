@@ -4,7 +4,7 @@
 
 ## I'm a Virologist, Entrepreneur and constant student of life!!
 
-- 🎉 I just launched my first GitCoin Longevity Grant: [Become A VS Code SuperHero!][course]!
+- 🎉 I just launched my first GitCoin Longevity Grant: [People Over Profit!][grant]!
 - 🌱 I’m currently learning about the crypto space 🙂
 - 👯 I’m looking to collaborate with others interested in treating autoimmune diseases
 - 🥅 Life Goals: Be better today than I was yesterday 
@@ -27,6 +27,6 @@
 </details>
 
 [website]: https://kherion-technology.com/
-[course]: http://vsCodeHero.com
+[grant]: http://vsCodeHero.com
 [twitter]: https://twitter.com/PatrickYL3
 [linkedin]: linkedin.com/in/j-patrick-mixon
