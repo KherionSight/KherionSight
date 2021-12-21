@@ -4,7 +4,7 @@
 
 ## I'm a Virologist, Entrepreneur and constant student of life!!
 
-- 🎉 I just launched my first GitCoin Longevity Grant: [People Over Profit][grant]!
+- 🎉 I just launched my first GitCoin Longevity Grant: [People Deserve Medicines That Make Life Better][grant]!
 - 🌱 I’m currently learning about the crypto space 🙂
 - 👯 I’m looking to collaborate with others interested in treating autoimmune diseases
 - 🥅 Life Goals: Be better today than I was yesterday 
