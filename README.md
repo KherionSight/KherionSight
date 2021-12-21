@@ -93,7 +93,7 @@
 
 </details>
 
-[website]: https://kherion-technology.com/
+[website]: <a href="https://kherion-technology.com/" target="_blank">Go</a>
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
