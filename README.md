@@ -6,7 +6,7 @@
 
 - 🎉 I just launched my first GitCoin Longevity Grant: [People Deserve Medicines That Make Life Better][grant]!
 - 🌱 I’m currently learning about the crypto space 🙂
-- 👯 I’m looking to collaborate with others interested in 𝒔𝒂𝒇𝒆𝒍𝒚 treating autoimmune diseases
+- 👯 I’m looking to collaborate with others interested in **_safely_** treating autoimmune diseases
 - 🥅 Life Goals: Be better today than I was yesterday 
 - ⚡ Fun fact: I love to constantly challenge myself; with breaks here and there ... 😉
 
