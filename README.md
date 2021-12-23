@@ -27,6 +27,6 @@
 </details>
 
 [website]: https://kherion-technology.com/
-[grant]: http://vsCodeHero.com
+[grant]: https://gitcoin.co/grants/4431/autoimmune-disease-treatment-without-immune-suppre
 [twitter]: https://twitter.com/PatrickYL3
 [linkedin]: https://www.linkedin.com/in/j-patrick-mixon
