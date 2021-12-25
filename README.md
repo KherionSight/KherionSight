@@ -1,4 +1,4 @@
-### Hi there, I'm Patrick - and the page [KherionSight][website] 👋 
+### Hi there, I'm Patrick - aka [KherionSight][website] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PatrickYL3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPatrickYL3&screen_name=PatrickYL3)
 
